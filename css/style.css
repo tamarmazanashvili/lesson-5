@@ -3,7 +3,7 @@
 
 body{
 	height: 2000px;
-	padding-top: 56px;
+
 }
 
 
@@ -37,5 +37,5 @@ body{
 .section-text{
 	width: 300px;
 	background-color: darkred;
-
+	margin-top: 56px;
 }
