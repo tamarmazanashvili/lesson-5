@@ -32,10 +32,52 @@ body{
 	margin-right: 20px;
 }
 
-/*section*/
+/*section 1*/
 
 .section-text{
 	width: 300px;
 	background-color: darkred;
 	margin-top: 56px;
+}
+
+
+
+/*section 2*/
+
+.section-2{
+	margin-top: 20px;
+}
+
+.box-wrapper{
+	height: 400px;
+	width: 400px;
+	background-color: green;
+	position: relative;
+}
+
+.box-1{
+	height: 150px;
+	width: 150px;
+	background-color: yellow;
+	position: absolute;
+	right: 30px;
+	bottom: 50px;
+}
+
+.box-2{
+	height: 150px;
+	width: 150px;
+	background-color: black;
+	position: absolute;
+	right: 80px;
+	bottom: 100px;
+}
+
+.box-3{
+	height: 150px;
+	width: 150px;
+	background-color: red;
+	position: absolute;
+	top: 50px;
+	right: 150px;
 }
